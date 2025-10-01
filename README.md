@@ -31,3 +31,10 @@ Nothing special (yet).
 > The pins `IO1`, `IO2` and `IO3` on the feather-header correspond with `D15`, `D16` and `SW2` respectively.
 > Make sure that these are not shorted accidentally because of this.
 > ![Schematic view](../img/cb-v1.1b-io-collision.png)
+
+
+# Acknowledgement
+
+Part of the source code in this repository is developed within the frame and for the purpose of the OpenSwarm project. This project has received funding from the European Unioan's Horizon Europe Framework Programme under Grant Agreement No. 101093046.
+
+![OpenSwarm - Funded by the European Union](logos/ack.png)
